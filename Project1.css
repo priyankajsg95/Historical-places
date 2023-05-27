@@ -1,0 +1,57 @@
+header
+{
+    font-size: 40px;
+    background-image: linear-gradient(270deg ,red,blue,pink);
+    color:pink;
+    /* background-image: url("pexels-eberhard-grossgasteiger-443446.jpg");
+    background-image: cover; */
+    text-align: center;
+}
+footer
+{
+    font-size: 40px;
+    background-image: linear-gradient(270deg ,red,blue,pink);
+    color:pink;
+    /* background-image: url("pexels-eberhard-grossgasteiger-443446.jpg");
+    background-image: cover; */
+    text-align: center;
+    
+}
+#mainid{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: pink;
+    font-size: 40px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: black;
+    margin-left: 20px;
+    text-align: center;
+    background-attachment: fixed;
+    /* background-image: url("nature.jpg"); */
+}
+div{
+    background-color:black;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px black;
+    color:aquamarine;
+}
+h1
+{
+    font-size: 30px;
+}
+
+h6
+{
+    color: white;
+    font-size: 15px;
+}
+body{
+    background-color: aqua;
+}
+.r
+{
+    background-color: white;
+}
